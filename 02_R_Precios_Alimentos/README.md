@@ -47,7 +47,7 @@ Estos resultados muestran la utilidad de combinar visualizaciones temporales par
 ## 5. Archivos del proyecto
 
 - `Andara_productos_basicos_total (2) (1).ipynb`: notebook con código R, gráficos e interpretación económica.
-- `EI_PROD_BAS_AL (Productos basicos total) (1).xlsx`: base de datos utilizada.
+- `EI_PROD_BAS_AL (Productos basicos total).xlsx`: base de datos utilizada.
 
 ## 6. Instrucciones de ejecución
 
