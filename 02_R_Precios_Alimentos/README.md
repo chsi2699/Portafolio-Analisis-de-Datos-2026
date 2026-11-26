@@ -12,7 +12,7 @@ Analizar la evolución del índice de precios de alimentos mediante R y Google C
 - **Período analizado:** Enero de 2010 – agosto de 2026.
 - **Frecuencia:** Mensual.
 - **Unidad:** Índice, con base 2014–2016 = 100.
-- **Archivo utilizado:** `EI_PROD_BAS_AL (Productos basicos total) (1).xlsx`.
+- **Archivo utilizado:** `EI_PROD_BAS_AL (Productos basicos total).xlsx`.
 
 ## 3. Herramientas y metodología
 
